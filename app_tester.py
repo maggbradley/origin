@@ -1,13 +1,24 @@
 import HW
-def main():
-    handler_list = {
-        "HW": HW.handler,
+import feature as ft
+class App():
+    def __init__(self):
+        self.handler_list = {
+            "HW": ft.Feature("Hello world", HW.handler),
 
-    }
-    handler_to_run = "HW"
-    handler_list[handler_to_run]()
+        }
+        self.handler_to_run = "HW"
+
+    def start(self):
+
+        print('Starting app_tester')
+
+        feat = self.handler_list[self.handler_to_run]
+        feat.run()
+
+        print('app_tester completed')
 
 
 if __name__ == "__main__":
-    main()
+    myapp = App()
+    myapp.start()
 
