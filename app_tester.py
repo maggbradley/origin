@@ -1,12 +1,14 @@
 import HW
+import FN
 import feature as ft
 class App():
     def __init__(self):
         self.handler_list = {
             "HW": ft.Feature("Hello world", HW.handler),
-
+            "FN": ft.Feature("Abraham", FN.handler)
         }
-        self.handler_to_run = "HW"
+        self.handler_to_run = "FN"
+
 
     def start(self):
 
