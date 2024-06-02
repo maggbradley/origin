@@ -6,12 +6,14 @@ import logging
 import sys
 
 import feature as ft
+
+# echo file to console
 class App():
 
     def __init__(self):
         # Setup command line parsing
         self.parser = argparse.ArgumentParser()
-        self.parser.add_argument("--torun", help="What features to run", )
+        self.parser.add_argument("--infile", help="What features to run", required=True)
         params = self.parser.parse_args()
 
         # Setup logging just to console
@@ -20,24 +22,16 @@ class App():
                             handlers=[logging.StreamHandler(sys.stdout),
         ])
 
-        self.handler_list = {
-            "HW": ft.Feature("Hello world", HW.handler, app=self),
-            "FN": ft.Feature("Abraham", FN.handler, app=self),
-            "less_1": ft.Feature("less_1", l1.tester, app=self),
-        }
-        self.handler_to_run = params.torun
 
 
 
 
     def start(self):
 
-        print('Starting app_tester')
+        logging.info(f"Started load_file")
 
-        feat = self.handler_list[self.handler_to_run]
-        feat.run()
 
-        print('app_tester completed')
+        logging.info(f"Ended load_file")
 
 
 if __name__ == "__main__":
