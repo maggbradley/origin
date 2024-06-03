@@ -1,0 +1,135 @@
+Date,Type,Payee,From AMEX,Amount
+5/1/2024,Misc,Walgreens,,23.23
+5/1/2024,Health Ins,Freedom Life,,646.01
+5/1/2024,Health Ins,Freedom Life,,247.73
+5/2/2024,CC Paydown,PFCP,,"1,024.25"
+5/2/2024,Health Ins,UHC/Golden Rule,,549.27
+5/2/2024,Car,Ford,,853.00
+5/3/2024,House,Rocket Mortgage,,"2,993.26"
+5/3/2024,House,HOA,,382.54
+5/3/2024,Streaming,Peacock,,6.58
+5/3/2024,Enter.Misc,Starbucks,,18.01
+5/3/2024,Groceries,Target,,97.50
+5/3/2024,Special,Home Depot,,123.38
+5/3/2024,Streaming,Disney Plus,,13.99
+5/3/2024,Groceries,Publix,,122.87
+5/3/2024,Groceries,Chick Filet,,29.59
+5/4/2024,Special,Petsmart,,40.21
+5/4/2024,Enter.Misc,Apple.com,,2.14
+5/3/2024,Special,best Buy Renewal,Y,179.99
+5/3/2024,Special,LuLuLemon,Y,252.52
+5/4/2024,Enter.Dine,Piesanos,Y,185.39
+5/4/2024,Enter.Misc,Panera,Y,45.81
+5/6/2024,Streaming,Spotify,Y,16.99
+5/7/2024,Enter.Dine,Eds,Y,149.84
+5/9/2024,Misc,Walgreens,Y,54.99
+5/9/2024,Gas,Shell,Y,47.08
+5/6/2024,Enter.Movies,AMC,,56.11
+5/6/2024,Groceries,Publix,,61.22
+5/7/2024,Enter.Misc,Starbicks,,22.12
+5/7/2024,Special,Crowder bros,,25.73
+5/7/2024,Special,Amazin,,90.54
+5/8/2002,Car,State Farm,,185.30
+5/8/2002,Misc,ATM,,20.00
+5/8/2002,Groceries,Publix,,85.46
+5/10/2024,Enter.Misc,Dunkin,,23.60
+5/10/2024,Enter.Dine,Dim Dum,Y,117.52
+5/11/2024,Enter.Misc,Trade Route,Y,8.56
+5/11/2024,Enter.Misc,Trade Route,Y,5.62
+5/11/2024,Groceries,Publix,Y,15.07
+5/13/2024,Groceries,Publix,Y,51.89
+5/13/2024,Groceries,Publix,Y,25.69
+5/13/2024,Enter.Dine,Dockside,Y,265.00
+5/14/2024,Enter.Movies,AMC Stubs,Y,24.56
+5/14/2024,Enter.Movies,AMC Stubs,Y,24.56
+5/15/2024,Special,Big Jim,Y,208.40
+5/9/2024,Special,Sherwin Williams,,78.12
+5/13/2024,Enter.Movies,AMC,,5.49
+5/13/2024,Enter.Misc,ATM,,20.00
+5/13/2024,Enter.Dine,Wendys,,22.00
+5/13/2024,Groceries,Publix,,25.34
+5/13/2024,Enter.Movies,AMC,,65.20
+5/13/2024,Special,House Cleaning,,200.00
+5/14/2024,Utils,T-Mobile,,179.00
+3/15/2024,Groceries,Publix,Y,244.72
+3/15/2024,Groceries,Publix,Y,35.84
+5/17/2024,Enter.Movies,AMC Stubs,Y,24.56
+5/16/2024,Enter.Misc,ATM,,20.00
+5/16/2024,Groceries,Publix,,22.95
+5/17/2024,Enter.Misc,Starbucks,,21.65
+5/17/2024,Enter.Movies,AMC,,55.04
+5/17/2024,Enter.Misc,Starbiucks,,15.93
+5/17/2024,Enter.Misc,ChickFilet,,15.99
+5/20/2024,Utils,Peace River,,123.00
+5/17/2024,Art,Adobe,Y,42.49
+5/19/2024,Misc,Walgreens,Y,10.00
+5/20/2024,Enter.Movies,Vudu,Y,3.99
+5/21/2024,Special,Qyest Diagnostics,Y,83.00
+5/14/2024,Special,Amazon,P,44.30
+5/20/2024,Special,Petco,P,181.89
+5/20/2024,Special,Target,P,248.97
+5/20/2024,Utils,Spectrum,,132.30
+5/20/2024,Groceries,Publix,,102.33
+5/20/2024,Enter.Dine,Olive Garden,,33.09
+5/21/2024,Groceries,Publix,,19.50
+5/21/2024,Enter.Misc,Panera,,17.86
+5/21/2024,Enter.Misc,Panera,,16.07
+5/21/2024,Streaming,Netflix,,15.49
+5/21/2024,Misc,Walgreens,,8.34
+5/22/2024,Enter.Misc,Dunkin,,13.33
+5/22/2024,Groceries,Publix,,38.61
+5/22/2024,Misc,7Eleven,,48.38
+5/22/2024,Misc,7Eleven,,20.00
+5/22/2024,Enter.Misc,Starbucks,,17.69
+5/24/2024,Misc,Trade Route,Y,5.34
+5/24/2024,Enter.Movies,VUDU,Y,3.99
+5/25/2024,Groceries,Publix,Y,17.23
+5/24/2024,Trip,AirBnB,Y,"1,669.50"
+5/22/2024,Special,Petco,P,-58.55
+5/22/2024,Special,Nayside Pet Resort,P,78.00
+5/26/2024,Misc,Crowder Ace,,22.01
+5/25/2024,Groceries,Publix,,72.92
+5/25/2024,Enter.Movies,AMC,,22.92
+5/25/2024,Art,Ancestry,,39.99
+5/24/2024,Enter.Dine,Dim Sum,,56.20
+5/24/2024,Misc,ATM,,20.00
+5/26/2024,Groceries,Publix,Y,17.23
+5/27/2024,Art,Adobe,Y,24.43
+5/28/2024,Misc,Valvoline,Y,127.23
+5/28/2024,Enter.Dine,Smack Dab On Siesta,Y,2.93
+5/28/2024,Misc,Legal Zoom,Y,99.66
+5/28/2024,Enter.Dine,Daquiri Deck,Y,183.51
+5/29/2024,Gas,Shell,Y,52.09
+5/29/2024,Enter.Movies,Roku,Y,18.98
+5/29/2024,Trip,Enterprise Rental,Y,"2,126.68"
+5/28/2024,Enter.Misc,Starbucks,,21.54
+5/28/2024,Trip,Crowder Bros,,22.01
+5/28/2024,Misc,AMC Theaters,,22.82
+5/28/2024,Misc,Amazon,,28.87
+5/28/2024,Misc,Walgreens,,33.95
+5/28/2024,Art,Ancestry,,39.99
+5/28/2024,Groceries,Publix,,72.93
+5/28/2024,Trip,ATM,,100.00
+5/28/2024,Trip,ATM,,160.00
+5/28/2024,Enter.Dine,Owens,,266.20
+5/29/2024,Misc,US Postal,,24.48
+5/29/2024,Enter.Misc,Chick Filet,,48.42
+5/29/2024,Misc,Trade Route,,11.82
+5/29/2024,Enter.Misc,Dunkin,,13.98
+5/29/2024,Misc,Walgreens,,23.23
+5/30/2024,Trip.Food,Wendys,Y,29.05
+5/30/2024,Trip.Food,Wendys,Y,5.24
+5/30/2024,Enter.Dine,Piesanso,Y,178.36
+5/30/2024,Trip.Lodge,Hampton,Y,75.00
+5/30/2024,Trip.Lodge,Hampton,Y,13.00
+5/30/2024,Trip.Misc,Circle K,Y,36.53
+5/20/2024,Rtp.Food,Chic Filet,Y,39.61
+5/31/2024,"Enter,Misc",Starbucks,Y,20.40
+5/31/2024,"Enter,Misc",Mcdonalds,Y,4.70
+5/31/2024,Trip.Lodge,Hampton,Y,219.26
+5/31/2024,Trip.Lodge,Hampton,Y,253.48
+5/31/2024,trip.<isc,Circle K,Y,48.54
+5/31/2024,Trip.Dine,Chic Filet,Y,51.33
+5/31/2024,Trip.Dine,Chic Filet,Y,11.45
+5/29/2024,Enter.Misc,Dunkin,,36.71
+5/29/2024,Trip.Food,Chik Filter,,48.42
