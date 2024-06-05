@@ -34,21 +34,30 @@ class App():
     def start(self):
 
         logging.info(f"Started load_file")
+    def loadFile(infile):
+        logging.info(f"Starting to copy")
+        with open(infile, "r") as file:
+            data = file.read()
+            print(data)
+            return data
 
-        # log 'starting to copy {filename}
-        # with/open infile
-        # loan all lines
-        # log '{num} lines read"
+    def numLines(infile):
+       with open(infile, "r") as file:
+           f = file.readlines()
+           l = len(f)
+           print(l)
+        logging.info({l} lines read)
 
-        # log 'starting to save {filename}
-        # with/created outfile
-        # write all lines
-        # log 'saced {n} lines}"
-
-        # loop, reading one line from infile at a time
-        #   write each line to outfile
-        # close infile
-        # closeoutfile
+    def saveFile(outfile):
+        logging.info(f"Starting to save")
+        with open(infile, "r") as rf:
+            file_contents = file.read()
+            le = len(file_contents)
+            print(le)
+        with open(outfile, "w") as file:
+            print(file_contents)
+            file.write(file_contents)
+        logging.info(f"Saved {le} lines") 
 
         logging.info(f"Ended load_file")
 
